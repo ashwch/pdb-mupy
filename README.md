@@ -1,3 +1,5 @@
-# pdb-mupy
+# Become a pdb power-user
 
-## Related slides can be found at: http://slides.com/ashwch/pdb-mupy
+## MUPy 2016
+
+### Related slides can be found at: http://slides.com/ashwch/pdb-mupy
